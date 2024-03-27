@@ -6,8 +6,7 @@ def are_fingers_up(landmarks):
 def perform_action(gesture):
     if gesture == "play":
         print("Action: Play")
-
-
+        
 
     elif gesture == "pause":
         print("Action: Pause")
